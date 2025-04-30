@@ -28,7 +28,7 @@ Este projeto implementa uma **simulação física interativa** em C++ utilizando
 
 Antes de compilar e executar, certifique-se de ter as seguintes bibliotecas instaladas no sistema:
 
-- [PIG]([https://github.com/OraculoV/BibliotecaPIG](https://github.com/PIGDevUff/PigDev))
+- [PIG](https://github.com/PIGDevUff/PigDev)
 - [SDL2](https://www.libsdl.org/)
 - [SDL2_image](https://github.com/libsdl-org/SDL_image)
 - [SDL2_ttf](https://github.com/libsdl-org/SDL_ttf)
