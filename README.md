@@ -36,5 +36,4 @@ Antes de compilar e executar, certifique-se de ter as seguintes bibliotecas inst
 > 🔧 As bibliotecas SDL podem ser instaladas usando um gerenciador como o [vcpkg](https://github.com/microsoft/vcpkg) para facilitar o processo de configuração.
 
 ## 📷 Preview
-![newton_4ff99zpOHJ](https://github.com/user-attachments/assets/2b387b64-9e3e-4847-9d2b-c69ca76d8fe7)
-
+![newton_AwvtSkjcMW](https://github.com/user-attachments/assets/d0aa532f-ac01-4a7c-8b1f-8e33bfa3bd5f)
